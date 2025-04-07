@@ -2,16 +2,6 @@
 
 This project demonstrates end-to-end data cleaning and preprocessing using **Microsoft Excel**, focused on salary trends in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Science** from **2020 to 2025**.
 
-## 📁 Repository Contents
-
-- `Raw_Data.xlsx` – Original, uncleaned dataset
-- `Cleaned_Data.xlsx` – Final cleaned dataset ready for analysis
-- `Data_Cleaning_Steps.xlsx` – Step-by-step documentation of all cleaning operations within Excel
-- `Interview_Questions.docx` – Common Excel-based data cleaning interview questions with answers
-- `README.md` – Project overview and cleaning summary
-
----
-
 ## 🎯 Project Objective
 
 To clean and prepare a raw dataset containing job and salary information from the AI/ML/Data Science domain between 2020 and 2025. The goal is to make the dataset consistent, structured, and analysis-ready using only **Excel tools and functions**.
