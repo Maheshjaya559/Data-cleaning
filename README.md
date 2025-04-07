@@ -54,9 +54,3 @@ Documentation
 
 Added a dedicated sheet explaining each step and rationale.
 
-📈 Goals
-Understand salary trends across AI, ML, and Data Science roles
-
-Prepare data for visualization or further statistical analysis
-
-Practice real-world Excel-based data cleaning techniques
